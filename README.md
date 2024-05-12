@@ -7,4 +7,4 @@ Linear Algebra Appl 511 (2016) 318-327
 and
 A. Arif, S. Hayat, A. Khan, 
 On irregularity indices and main eigenvalues of graphs and their applicability, 
-J Appl Math Comput 69 (2023) 2549--2571.
+J Appl Math Comput 69 (2023) 2549-2571.
